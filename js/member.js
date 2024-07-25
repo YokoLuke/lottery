@@ -1,42 +1,42 @@
 var member = [
+   {
+    "phohe": "No.1",
+    "name": "陈莹婷"
+  }，
+   {
+    "phone": "No.2",
+    "name": "宋和元"
+  },
+   {
+    "phohe": "No.3",
+    "name": "莫庆熔"
+   }，
+   {
+    "phohe": "No.4",
+    "name": "谭泽润"
+  }，
+   { 
+    "phohe": "No.5",
+    "name": "吕德至"
+  }，
+   {
+    "phohe": "No.6",
+    "name": "王宇青"
+  }，
+   {
+    "phohe": "No.7",
+    "name": "黄国兴"
+  }，
   {
-    "phohe":"No.1",
-    "name":"陈莹婷"
-  }
- {
-    "phohe":"No.2",
-    "name":"谭泽润"
-  }
- {
-    "phohe":"No.3",
-    "name":"莫庆熔"
-  }
-    {
-    "phohe":"No.4",
-    "name":"宋和元"
-  }
-     {
-    "phohe":"No.5",
-    "name":"吕德至"
-  } 
-{
-    "phohe":"No.6",
-    "name":"王宇青"
-  }
+    "phohe": "No.8",
+    "name": "毋格格"
+  }，
   {
-    "phohe":"No.7",
-    "name":"黄国兴"
-  }
- {
-    "phohe":"No.8",
-    "name":"毋格格"
-  }
-{
-    "phohe":"No.8",
-    "name":"周唯"
-  }
-{
-    "phohe":"No.8",
-    "name":"刁子兴"
+    "phohe": "No.9",
+    "name": "周唯"
+  }，
+  {
+    "phohe": "No.10",
+    "name": "刁子兴"
   } 
 ]
